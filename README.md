@@ -7,9 +7,9 @@
 
 <div>
   <a href="https://github.com/NathaliaBomtemp">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NathaliaBomtemp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=NathaliaBomtemp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img align="top-right" height="140em" alt="imagem" src="https://cdn.discordapp.com/attachments/886653324428980339/886653439931727882/download20210900134031.png">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaBomtemp&layout=compact&langs_count=7&theme=radical"/>  
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaBomtemp&layout=compact&langs_count=7&theme=radical"/>  
   
 </div>
  
