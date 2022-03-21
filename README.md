@@ -7,9 +7,9 @@
 
 <div>
   <a href="https://github.com/NathaliaBomtemp">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=NathaliaBomtemp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=NathaliaBomtemp&show_icons=true&theme=whitel&include_all_commits=true&count_private=true"/>
   <img align="top-right" height="140em" alt="imagem" src="https://cdn.discordapp.com/attachments/886653324428980339/886653439931727882/download20210900134031.png">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaBomtemp&layout=compact&langs_count=7&theme=radical"/>  
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaBomtemp&layout=compact&langs_count=7&theme=white"/>  
   
 </div>
  
@@ -30,7 +30,7 @@ Atualmente sou Quality Assurance Enginner em uma vertical de serviços financeir
  
  ### Mobile
  
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a> --> <img src="https://img.shields.io/badge/Appium-8533a7?style=for-the-badge&logoColor=white" target="_blank"></a>
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a> --> <img src="https://img.shields.io/badge/Appium-7d4ea6?style=for-the-badge&logoColor=white" target="_blank"></a>
  
   ### Sistemas Operacionais
 
