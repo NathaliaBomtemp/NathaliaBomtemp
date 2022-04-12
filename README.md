@@ -9,8 +9,7 @@
   <a href="https://github.com/NathaliaBomtemp">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=NathaliaBomtemp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="top-right" height="140em" alt="imagem" src="https://cdn.discordapp.com/attachments/886653324428980339/886653439931727882/download20210900134031.png">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaBomtemp&layout=compact&langs_count=7&theme=dark"/>  
-  
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaBomtemp&layout=compact&langs_count=7&theme=dark"/>   
 </div>
  
  ##
@@ -56,4 +55,3 @@ Atualmente sou Quality Assurance Enginner em uma vertical de serviços financeir
   <a href="https://github.com/NathaliaBomtemp">
   <img height="22" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/NathaliaBomtemp">
 </div>
-
