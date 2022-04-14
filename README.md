@@ -8,9 +8,10 @@
 <div>
   <p align="center">
   <a href="https://github.com/NathaliaBomtemp">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=NathaliaBomtemp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="top-right" height="130em" alt="imagem"         src="https://cdn.discordapp.com/attachments/886653324428980339/886653439931727882/download20210900134031.png">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaBomtemp&layout=compact&langs_count=7&theme=dark"/>   
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=NathaliaBomtemp&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img align="top-right" height="130em" alt="imagem" src="https://user-images.githubusercontent.com/70415844/163290236-c9196569-d5ff-4b63-9b41-dfc82a27d027.png">
+
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaBomtemp&layout=compact&langs_count=7&theme=buefy"/>   
 </div>   
     
   
