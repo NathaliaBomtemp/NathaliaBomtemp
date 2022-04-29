@@ -1,7 +1,7 @@
 ### Olá! Me chamo Nathalia. 👩🏻‍💻👋🏻
 
 - 💻 Sou estudante e profissional de TI;
-- 🥇 Aqui compartilho minhas skills e novos aprendizados em programação;
+- 🥇 Aqui compartilho minhas skills e novos aprendizados de programação;
 - :bell: Contate-me no e-mail: nathaliabomtempo284@gmail.com;
 - 🙋🏻‍♀️ Você também pode me conhecer melhor acessando meu [LinkedIn](https://www.linkedin.com/in/nathalia-bomtempo/);
 
