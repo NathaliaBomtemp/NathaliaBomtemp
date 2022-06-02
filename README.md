@@ -52,8 +52,6 @@ Atualmente sou Quality Assurance Enginner em uma vertical de serviços financeir
 <div> 
   <p align="center"> <a href="https://www.linkedin.com/in/nathalia-bomtempo/" target="_blank">
   <img height="22" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nathaliabomtempo284@gmail.com">
-  <img height="22" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/nath_bomtempo/" target="_blank">
   <img height="22" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://github.com/NathaliaBomtemp">
