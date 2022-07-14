@@ -51,9 +51,9 @@ Atualmente sou Quality Assurance Enginner em uma vertical de serviços financeir
 
 <div> 
   <p align="center"> <a href="https://www.linkedin.com/in/nathalia-bomtempo/" target="_blank">
-  <img height="22" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img height="39" src="https://user-images.githubusercontent.com/70415844/179119230-354efe27-2274-4fa6-8481-d55070d318f7.svg" target="_blank"></a>
   <a href="https://www.instagram.com/nath_bomtempo/" target="_blank">
-  <img height="22" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <img height="38" src="https://user-images.githubusercontent.com/70415844/179120176-1244f708-27cd-4650-a241-dcb47e31f277.svg"></a>
   <a href="https://github.com/NathaliaBomtemp">
-  <img height="22" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/NathaliaBomtemp">
+  <img height="39" src="https://user-images.githubusercontent.com/70415844/179119283-522b4ecb-d605-4752-870e-d42a278f074c.svg"></a>
 </div>
