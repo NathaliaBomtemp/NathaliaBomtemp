@@ -25,9 +25,9 @@ Atualmente sou Quality Assurance Enginner em uma vertical de serviços financeir
   ### Web
     
  <div> 
-   <img height="23" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+   <img height="23" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
    <img height="23" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a> 
-  :point_right: <img height="23" src="https://img.shields.io/badge/CYPRESS-000000?style=for-the-badge&logoColor=white" target="_blank"></a> 
+  :point_right: <img height="23" src="https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=cypress&logoColor=white"></a> 
  
    <img height="23" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a> :point_right: <img    height="23" src="https://img.shields.io/badge/Selenium WebDriver -26ca32?style=for-the-badge&logoColor=white" target="_blank"></a> 
  
