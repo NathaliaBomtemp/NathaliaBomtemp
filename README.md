@@ -3,7 +3,7 @@
 - 💻 Sou estudante e profissional de TI;
 - 🥇 Aqui compartilho minhas skills e novos aprendizados em programação;
 - :bell: Contate-me no meu e-mail: nathaliabomtempo284@gmail.com;
-- 🙋🏻‍♀️ Você também pode me conhecer melhor acessando meu [LinkedIn](https://www.linkedin.com/in/nathalia-bomtempo/).
+- 🙋🏻‍♀️ Você também pode me conhecer melhor acessando meu [LinkedIn](https://www.linkedin.com/in/nathalia-bomtempo/);
 
 <div>
   <p align="center">
