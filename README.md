@@ -17,11 +17,7 @@
   
  ## 
   ### Hard Skills and Testing Tools   
-    
- 
-Atualmente sou Quality Assurance Enginner em uma vertical de serviços financeiros e investimentos. Participando desde a concepção do produto e refinamento de negócio até a garantia de qualidade do código e desenvolvimento de testes automatizados (backend e frontend).   
-  
- 
+     
   ### Web
     
  <div> 
