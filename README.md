@@ -44,7 +44,7 @@
  
  ## 
  <div> 
- <p align="center"> Entre em contato comigo </>
+ <p align="center"> Entre em contato comigo. </>
 
 
   <p align="center"> <a href="https://www.linkedin.com/in/nathalia-bomtempo/" target="_blank">
