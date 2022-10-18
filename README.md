@@ -16,8 +16,24 @@
     
   
  ## 
+ 
+Atuo como **Quality Assurance Enginner** em uma instituição de serviços financeiros e investimentos. Participando desde a concepção do produto e refinamento de negócio até a garantia de qualidade do código e desenvolvimento de automações.
+ 
+  ### Linguagens
+  
+  <div>  
+    <img height="23" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+    <img height="23" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
+    <img height="23" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank"></a>
+    <img height="23" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
+    <img height="23" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a> 
+   </div>
+   
+  #
+  
   ### Hard Skills and Testing Tools   
-     
+  
+      
   ### Web
     
  <div> 
