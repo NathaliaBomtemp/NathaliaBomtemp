@@ -17,7 +17,7 @@
   
  ## 
  
-Atuo como **Quality Assurance Enginner** em uma instituição de serviços financeiros e investimentos. Participando desde a concepção do produto e refinamento de negócio até a garantia de qualidade do código e desenvolvimento de automações.
+Atuo como **Quality Assurance Enginner** em uma instituição de serviços financeiros e investimentos. 
  
   ### Linguagens
   
