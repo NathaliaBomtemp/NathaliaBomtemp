@@ -6,18 +6,16 @@
 - 🙋🏻‍♀️ Você também pode me conhecer melhor acessando meu [LinkedIn](https://www.linkedin.com/in/nathalia-bomtempo/)!
 
 <div>
-  <p align="center">
+  <p align="left">
   <a href="https://github.com/NathaliaBomtemp">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=NathaliaBomtemp&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img align="top-right" height="130em" alt="imagem" src="https://user-images.githubusercontent.com/70415844/163290236-c9196569-d5ff-4b63-9b41-dfc82a27d027.png">
-
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaBomtemp&layout=compact&langs_count=7&theme=buefy"/>   
 </div>   
     
   
  ## 
  
-Atuo como **Quality Assurance Enginner** em uma instituição de serviços financeiros e investimentos. 
+Atuo como **Quality Assurance Enginner** em uma seguradora de saúde. 
  
   ### Linguagens
   
